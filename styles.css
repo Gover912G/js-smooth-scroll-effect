@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.box-1
+{
+    height: 100vh;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box-2
+{
+    /* margin-top: 80px; */
+    height: 100vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
